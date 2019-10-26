@@ -1,5 +1,7 @@
 n = int(input())
 
-# TODO Fill Code here
-
+if (n%2==0):
+  return True
+else :
+  return False
 
